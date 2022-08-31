@@ -4,7 +4,7 @@ UI Automator는 안드로이드에서 UI를 테스트할 수 있게 도와주는
 https://developer.android.com/training/testing/ui-automator?hl=ko (UI Automator 공식문서) <br><br>
 
 <h2>UI Automator 기능 설명 및 사용법</h2>
-https://eeeun.tistory.com/entry/Android-UI-Automator%EB%9E%80-%EC%82%AC%EC%9A%A9%EB%B2%95 <br>
+https://eeeun.tistory.com/28 <br>
 <h3>< 목차 ></h3>
 
 - UI Automator란?<br>
